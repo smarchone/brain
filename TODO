@@ -1,0 +1,12 @@
+
+conversation pipeline:
+- dump -> backlog  ->  session -> triage -> conversation -> insights (for next session)
+- compounding insights (clustered)
+
+objective:
+- generate golden conversations and insights
+
+
+
+future:
+- a social signal platform (last30days or market research tool - reddit/hn miner etc) can create backlog item for conversation
